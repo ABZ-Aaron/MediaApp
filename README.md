@@ -1,6 +1,6 @@
 # Media App
 
-This is a (mock) media app completed as part of an assessment using Tkinter. The purpose of this was more intended as practice working with Tkinter, rather than providing anything useful. Note that the app doesn't actually play media items.
+This is a (mock) media app completed as part of an assessment using Tkinter. The purpose of this was more intended as practice working with Tkinter, rather than providing anything useful (Note that the app doesn't actually play media items!).
 
 ![](MediaApp.png)
 
@@ -40,14 +40,17 @@ Looking at the right hand side now (playlist controls)
 
 # What I've learned from this project
 
-I've further my skills with Tkinter, particularly with regard to moving widgets around.
+Through this project, I have developed my skills with Tkinter, particularly with regard to moving widgets around.
 
-I've further developed my knowledge surrounding event drive programming, with a much better idea of how this works.
+I've further developed my knowledge surrounding event drive programming, with a much clearer idea of how this works.
 
-I have also develooped my skills with OOP. I had avoided it up until now, but was able to successfuly utilise it within this project.
+I have also develooped skills with OOP, something I had avoided up until now.
+
+# What I enjoyed
+
+I liked finally being able to apply OOP. This was something I'd dabbled in, but never really utilised within a project. I also found designing the applications to be exciting. I'll admit that I found moving Tkinter widgets around to be frustrating, but finally getting it to look the way I wanted it to was rewarding. In future however, I may just stick to something like Visual Studio if developing an app.
 
 # Future changes
 
-* I may implement some SQL into this. Instead of storing data in CSVs, I would store it in a database
-* I may rework the app to accept real medai items, and allow it to play these items
-
+* Instead of storing data in CSVs, I would store it in a database
+* I may rework the app to accept real media items
